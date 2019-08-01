@@ -1,0 +1,5 @@
+Substrate = ROGERS 4360
+
+Capacitor = C1608C0G1H0R5C080AA 12pcs
+Inductor = ELJ-RER22GFA 12pcs
+Varactor = BB833E6327 36pcs

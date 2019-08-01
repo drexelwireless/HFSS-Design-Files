@@ -1,0 +1,621 @@
+$begin 'AnsoftProject'
+	Created='Sun Jun 02 17:55:26 2013'
+	Product='ElectronicsDesktop'
+	FileOwnedByWorkbench=false
+	$begin 'Desktop'
+		Version(2018, 1)
+		InfrastructureVersion(1, 0)
+	$end 'Desktop'
+	UsesAdvancedFeatures=false
+	NextUniqueID=0
+	MoveBackwards=false
+	$begin 'HFSSEnvironment'
+		Version(1, 0)
+	$end 'HFSSEnvironment'
+	$begin 'PlanarEMEnvironment'
+		Version(1, 0)
+	$end 'PlanarEMEnvironment'
+	$begin 'HFIEEnvironment'
+		Version(1, 0)
+	$end 'HFIEEnvironment'
+	$begin 'Q3DEnvironment'
+		Version(1, 0)
+	$end 'Q3DEnvironment'
+	$begin '2DExtractorEnvironment'
+		Version(1, 0)
+	$end '2DExtractorEnvironment'
+	$begin 'NexximEnvironment'
+		Version(1, 0)
+	$end 'NexximEnvironment'
+	$begin 'NexximNetlistEnvironment'
+		Version(1, 0)
+	$end 'NexximNetlistEnvironment'
+	$begin 'Maxwell3DEnvironment'
+		Version(1, 0)
+	$end 'Maxwell3DEnvironment'
+	$begin 'Maxwell2DEnvironment'
+		Version(1, 0)
+	$end 'Maxwell2DEnvironment'
+	$begin 'RMxprtEnvironment'
+		Version(1, 0)
+	$end 'RMxprtEnvironment'
+	$begin 'MaxCirEnvironment'
+		Version(1, 0)
+	$end 'MaxCirEnvironment'
+	$begin 'SimplorerEnvironment'
+		Version(1, 0)
+	$end 'SimplorerEnvironment'
+	$begin 'IcepakEnvironment'
+		Version(1, 0)
+	$end 'IcepakEnvironment'
+	$begin 'EmitEnvironment'
+		Version(1, 0)
+	$end 'EmitEnvironment'
+	$begin 'FilterDesignEnvironment'
+	$end 'FilterDesignEnvironment'
+	$begin 'SchematicEnvironment'
+		Version(1, 0)
+	$end 'SchematicEnvironment'
+	$begin 'geometry3deditor'
+		Version(1, 0)
+	$end 'geometry3deditor'
+	ReadVersion=6
+	$begin 'EDB'
+		Path=''
+		LastUpdateTimeStamp=1550075912
+	$end 'EDB'
+	$begin 'DesignMgrEnvironment'
+		CompInstCounter=1
+		GPortCounter=0
+		NetCounter=0
+		Alias('Ieee;Simplorer Elements\\Ieee', 'Std;Simplorer Elements\\Std', 'Basic_VHDLAMS;Simplorer Elements\\Basic Elements VHDLAMS\\Basic Elements VHDLAMS', 'Digital_Elements;Simplorer Elements\\Digital Elements\\Digital Elements', 'Transformations;Simplorer Elements\\Tools\\Transformations\\Transformations', 'HEV_VHDLAMS;Simplorer Elements\\HEV VHDLAMS\\HEV VHDLAMS', 'automotive_vda;Simplorer Elements\\VDALibs VHDLAMS\\automotive_vda', 'example_boardnet;Simplorer Elements\\VDALibs VHDLAMS\\example_boardnet', 'example_ecar;Simplorer Elements\\VDALibs VHDLAMS\\example_ecar', 'fundamentals_vda;Simplorer Elements\\VDALibs VHDLAMS\\fundamentals_vda', 'hybrid_emc_vda;Simplorer Elements\\VDALibs VHDLAMS\\hybrid_emc_vda', 'megma;Simplorer Elements\\VDALibs VHDLAMS\\megma', 'modelica_rotational;Simplorer Elements\\VDALibs VHDLAMS\\modelica_rotational', 'modelica_thermal;Simplorer Elements\\VDALibs VHDLAMS\\modelica_thermal', 'modelica_translational;Simplorer Elements\\VDALibs VHDLAMS\\modelica_translational', 'spice2vhd;Simplorer Elements\\VDALibs VHDLAMS\\spice2vhd', 'spice2vhd_devices;Simplorer Elements\\VDALibs VHDLAMS\\spice2vhd_devices', 'aircraft_electrical_vhdlams;Simplorer Elements\\Aircraft Electrical VHDLAMS\\Aircraft Electrical VHDLAMS', 'power_system_vhdlams;Simplorer Elements\\Power System VHDLAMS\\Power System VHDLAMS')
+	$end 'DesignMgrEnvironment'
+	$begin 'ProjectDatasets'
+		NextUniqueID=0
+		MoveBackwards=false
+		DatasetType='ProjectDatasetType'
+		$begin 'DatasetDefinitions'
+		$end 'DatasetDefinitions'
+	$end 'ProjectDatasets'
+	VariableOrders[0:]
+	$begin 'Definitions'
+		$begin 'Folders'
+			Definitions(1604, 10000, 1, 1, 0, false, false)
+			Materials(1604, 9500, 9, 2, 1, false, false)
+			'Surface Materials'(1604, 9501, 33503, 3, 1, false, false)
+			Scripts(1604, 9502, 33500, 4, 1, false, false)
+			Padstacks(1604, 9003, 12, 105, 1, false, false)
+			Symbols(1604, 9001, 10, 103, 1, false, false)
+			Footprints(1604, 9002, 11, 104, 1, false, false)
+			Components(1604, 9000, 8, 102, 1, false, false)
+			Models(1604, 9004, 13, 106, 1, false, false)
+			Packages(1604, 9005, 33502, 107, 1, false, false)
+		$end 'Folders'
+		$begin 'Materials'
+			$begin 'copper'
+				CoordinateSystemType='Cartesian'
+				BulkOrSurfaceType=1
+				$begin 'PhysicsTypes'
+					set('Electromagnetic', 'Thermal', 'Structural')
+				$end 'PhysicsTypes'
+				permeability='0.999991'
+				conductivity='58000000'
+				thermal_conductivity='400'
+				mass_density='8933'
+				specific_heat='385'
+				youngs_modulus='120000000000'
+				poissons_ratio='0.38'
+				thermal_expansion_coeffcient='1.77e-05'
+				ModTime=1132068239
+				Library='Materials'
+				LibLocation='SysLibrary'
+				ModSinceLib=false
+			$end 'copper'
+			$begin 'FR4_epoxy'
+				CoordinateSystemType='Cartesian'
+				BulkOrSurfaceType=1
+				$begin 'PhysicsTypes'
+					set('Electromagnetic', 'Thermal', 'Structural')
+				$end 'PhysicsTypes'
+				permittivity='4.4'
+				dielectric_loss_tangent='0.02'
+				thermal_conductivity='0.294'
+				mass_density='1900'
+				specific_heat='1150'
+				youngs_modulus='11000000000'
+				poissons_ratio='0.28'
+				thermal_expansion_coeffcient='1.5e-05'
+				ModTime=1132068239
+				Library='Materials'
+				LibLocation='SysLibrary'
+				ModSinceLib=false
+			$end 'FR4_epoxy'
+		$end 'Materials'
+		$begin 'SurfaceMaterials'
+		$end 'SurfaceMaterials'
+		$begin 'Scripts'
+		$end 'Scripts'
+		$begin 'Symbols'
+			$begin 'EMDesign1'
+				ModTime=1370209101
+				Library=''
+				ModSinceLib=false
+				LibLocation='Project'
+				HighestLevel=1
+				Normalize=true
+				InitialLevels(0, 1)
+				$begin 'Graphics'
+					Rect(0, 1, 0, 0, 0.000423333333333333, 0.00254, 0.000423333333333333, 0.000423333333333333, 0, 0, 0)
+					Rect(0, 0, 0, 0, 0.00254, 0.00254, 0.00508, 0.00508, 0, 0, 0)
+				$end 'Graphics'
+			$end 'EMDesign1'
+		$end 'Symbols'
+		$begin 'DefInfo'
+			EMDesign1(1002, 0, 16, 0, '', 1370209101, '', 'EMDesign1', '', '', '', '', '', 'Design.bmp', '', 'Project', '', '', 1370209101, '', 0, 0)
+		$end 'DefInfo'
+		$begin 'Compdefs'
+			$begin 'EMDesign1'
+				Library=''
+				CircuitEnv=0
+				Refbase='U'
+				NumParts=1
+				ModSinceLib=true
+				$begin 'Properties'
+					TextProp('Representation', 'SRD', '', 'EMDesign1')
+					TextProp('Owner', 'SRD', '', 'HFSS 3D Layout Design')
+				$end 'Properties'
+				CompExtID=6
+				$begin 'Parameters'
+					TextProp('ModelName', 'SHD', '', 'FieldSolver')
+					MenuProp('CoSimulator', 'D', '', 'DefaultNetlist', 0)
+					ButtonProp('CosimDefinition', 'D', '', '', 'Edit', 40501, ButtonPropClientData())
+				$end 'Parameters'
+				$begin 'CosimDefinitions'
+					$begin 'CosimDefinition'
+						CosimulatorType=4
+						CosimDefName='DefaultNetlist'
+						IsDefinition=true
+						Connect=true
+						Data()
+						GRef()
+					$end 'CosimDefinition'
+					DefaultCosim='DefaultNetlist'
+				$end 'CosimDefinitions'
+			$end 'EMDesign1'
+		$end 'Compdefs'
+	$end 'Definitions'
+	DesignIDServer=2
+	MoveBackwards=false
+	$begin 'PlanarEMCircuit'
+		RepRewriteV2=true
+		Name='EMDesign1'
+		DesignID=0
+		$begin 'Circuit'
+			ComponentName='EMDesign1'
+			AutoFP=''
+			$begin 'DesignDatasets'
+				NextUniqueID=0
+				MoveBackwards=false
+				DatasetType='DesignDatasetType'
+				$begin 'DatasetDefinitions'
+				$end 'DatasetDefinitions'
+			$end 'DesignDatasets'
+			VariableOrders[0:]
+		$end 'Circuit'
+		$begin 'Schematic'
+			PPortCounter=0
+			BusEntryCounter=0
+			$begin 'Page'
+				PageSize('A')
+				PageData(Origin(x='0mm', y='0mm'), PageSize(x='0', y='0'), Margins(x='0', y='0'), 0, 0, 0)
+				PageNumber=1
+				$begin 'Properties'
+					TextProp('Title', 'D', '', '')
+					TextProp('Author', 'D', '', '')
+					TextProp('Number', 'D', '', '1')
+					TextProp('Project', 'D', '', 'Project2')
+					TextProp('ProjectPath', 'D', '', 'C:/Users/Damiano/Desktop/HFSS simulations/projects/UWB Alford 2_4GHz model/layouts/design with pin_diodes/')
+					TextProp('Design', 'D', '', 'EMDesign1')
+					TextProp('Date', 'D', '', '5:57:05 PM  Jun 02, 2013')
+				$end 'Properties'
+			$end 'Page'
+			GridSetup('1000mil', '100mil', '100mil', 16772075, 16774645, true, true, 16777215, Origin(x='0mm', y='0mm'), PageSize(x='0mm', y='0mm'), Margins(x='0mm', y='0mm'), 0, 0, 0)
+			hasWindowBeenOpened=false
+			NextUniqueID=0
+			MoveBackwards=false
+		$end 'Schematic'
+		$begin 'Layout'
+			BlackBox=false
+			DefUnits='mm'
+			NIdx=32
+			ActLyr='Signal1'
+			Tol(1.3134e-09, 1e-08, 1e-12)
+			$begin 'HfssExportInfo'
+				ScriptFileName=''
+				HfssFileName=''
+				ExtentType='BboxExtent'
+				BasePolygon=''
+				BasePolygonEDBUId=-1
+				DielExt(Ext='0.1', Dim=false)
+				HonorUserDiel=true
+				TruncAtGnd=false
+				AirHorExt(Ext='0.4', Dim=false)
+				AirPosZExt(Ext='0.5', Dim=false)
+				AirNegZExt(Ext='0.5', Dim=false)
+				SyncZExt=true
+				UseRadBound=true
+			$end 'HfssExportInfo'
+		$end 'Layout'
+		$begin 'Rule Set'
+			$begin 'Data'
+			$end 'Data'
+			$begin 'DRCSolutionMgr'
+			$end 'DRCSolutionMgr'
+		$end 'Rule Set'
+		$begin 'Workflow'
+			WorkflowName=''
+			SpecName=''
+			TemplateName=''
+			LibLoc=1354736
+		$end 'Workflow'
+		$begin 'Port'
+			$begin 'Data'
+			$end 'Data'
+			$begin 'CoupledPortsList'
+			$end 'CoupledPortsList'
+			$begin 'DiffPairs'
+			$end 'DiffPairs'
+			TotalVoltage=false
+			$begin 'SortOrder'
+				Port[0:]
+			$end 'SortOrder'
+			LegacySolverPinOrdering=true
+		$end 'Port'
+		$begin 'Boundary'
+			$begin 'Data'
+			$end 'Data'
+			$begin 'CoupledPortsList'
+			$end 'CoupledPortsList'
+			$begin 'DiffPairs'
+			$end 'DiffPairs'
+			TotalVoltage=false
+			$begin 'SortOrder'
+				Port[0:]
+			$end 'SortOrder'
+			LegacySolverPinOrdering=true
+		$end 'Boundary'
+		$begin 'Cavity'
+			$begin 'Data'
+			$end 'Data'
+		$end 'Cavity'
+		$begin 'Via'
+			$begin 'Data'
+			$end 'Data'
+		$end 'Via'
+		$begin 'LayoutVia'
+			$begin 'Data'
+			$end 'Data'
+		$end 'LayoutVia'
+		$begin 'Sources'
+			$begin 'Data'
+			$end 'Data'
+		$end 'Sources'
+		$begin 'DC Terminals'
+			$begin 'Data'
+			$end 'Data'
+		$end 'DC Terminals'
+		$begin 'CircuitSources'
+			$begin 'Data'
+			$end 'Data'
+		$end 'CircuitSources'
+		$begin 'NexximPorts'
+			$begin 'Data'
+			$end 'Data'
+			$begin 'DiffPairs'
+			$end 'DiffPairs'
+		$end 'NexximPorts'
+		$begin 'SortOrder'
+		$end 'SortOrder'
+		$begin 'NexximMultiComponentContainers'
+			$begin 'Data'
+			$end 'Data'
+		$end 'NexximMultiComponentContainers'
+		$begin 'ComponentConfigurationData'
+			$begin 'EnabledPorts'
+			$end 'EnabledPorts'
+			$begin 'EnabledMultipleComponents'
+			$end 'EnabledMultipleComponents'
+			$begin 'EnabledAnalyses'
+			$end 'EnabledAnalyses'
+		$end 'ComponentConfigurationData'
+		$begin 'Properties'
+		$end 'Properties'
+		$begin 'CustomSimSetups'
+			$begin 'Data'
+			$end 'Data'
+		$end 'CustomSimSetups'
+		$begin 'Setup'
+			$begin 'Data'
+			$end 'Data'
+		$end 'Setup'
+		$begin 'AnalysisOptionBlocks'
+		$end 'AnalysisOptionBlocks'
+		$begin 'EM properties'
+			$begin 'Data'
+			$end 'Data'
+		$end 'EM properties'
+		$begin 'OutputVariable'
+			NextUniqueID=0
+			MoveBackwards=false
+		$end 'OutputVariable'
+		$begin 'Optimetrics'
+			$begin 'OptimetricsSetups'
+				NextUniqueID=0
+				MoveBackwards=false
+			$end 'OptimetricsSetups'
+		$end 'Optimetrics'
+		$begin 'FieldsReporter'
+			$begin 'FieldsCalculator'
+				Line_Discretization=1000
+			$end 'FieldsCalculator'
+			$begin 'PlotDefaults'
+				Default_SolutionId=-1
+				Default_PlotFolder='Automatic'
+			$end 'PlotDefaults'
+			$begin 'FieldsPlotManagerID'
+				NextUniqueID=0
+				MoveBackwards=false
+				NumQuantityType=0
+				NumPlots=0
+			$end 'FieldsPlotManagerID'
+			$begin 'Report3dInGeomWnd'
+				Report3dNum=0
+			$end 'Report3dInGeomWnd'
+			$begin 'Report2dInGeomWnd'
+				Report2dNum=0
+			$end 'Report2dInGeomWnd'
+			$begin 'AntennaParametersInGeomWnd'
+				AntennaParametersNum=0
+			$end 'AntennaParametersInGeomWnd'
+			AntennaParametersPlotTablesOrder()
+		$end 'FieldsReporter'
+		$begin 'SolutionManager'
+			$begin 'SimDataExtractors'
+				$begin 'Version ID Map'
+					V=0
+				$end 'Version ID Map'
+			$end 'SimDataExtractors'
+		$end 'SolutionManager'
+		$begin 'InterfaceOptions'
+			SchematicEnabled=true
+			SaveBeforeSolving=true
+		$end 'InterfaceOptions'
+		$begin 'AdvancedSettings'
+			ComputeBothEvenAndOddCPWModes=false
+			CausalMaterials=true
+			MeshingMethod='Phi'
+			CircuitSparamDefinition=false
+			CircuitIntegrationType='FFT'
+			ExportAfterSolve=false
+			ExportDir=''
+		$end 'AdvancedSettings'
+		$begin 'CoSimOptions'
+			Override=false
+			Setup=''
+			OverrideSweep=false
+			Sweep=''
+			SweepType=4
+			Interpolate=false
+			YMatrix=true
+			AutoAlignPorts=false
+			Simulator=1
+			InterpAlg='auto'
+		$end 'CoSimOptions'
+		$begin 'UserDefinedSolutionMgr'
+			NextUniqueID=1000000
+			MoveBackwards=false
+		$end 'UserDefinedSolutionMgr'
+		$begin 'DatasetSolutionMgr'
+			NextUniqueID=2000000
+			MoveBackwards=false
+		$end 'DatasetSolutionMgr'
+		Notes=$begin_cdata$ $end_cdata$
+		$begin 'AnimationSetups'
+		$end 'AnimationSetups'
+		CacheHeaderFile='HDR66332409215500759123.tmp'
+	$end 'PlanarEMCircuit'
+	$begin 'DataInstances'
+		DesignEditor='TopLevel'
+		Refdes('0', 'U1')
+		$begin 'CompInstances'
+			$begin 'Compinst'
+				ID='0'
+				Status='Status'
+				CompName='EMDesign1'
+				GatesInUse()
+				$begin 'Properties'
+					TextProp('ID', 'SRID', '', '0')
+				$end 'Properties'
+				$begin 'Parameters'
+					MenuProp('CoSimulator', 'OHD', '', 'DefaultNetlist', 0)
+					ButtonProp('CosimDefinition', 'OHD', '', '', 'Edit', 40501, ButtonPropClientData())
+				$end 'Parameters'
+			$end 'Compinst'
+		$end 'CompInstances'
+		$begin 'Instance'
+			DesignEditor='EMDesign1'
+			ID='0'
+			$begin 'PlanarEMItem'
+				Editor3D=true
+				$begin 'PostProcessing'
+					$begin 'Fields'
+						$begin 'Items'
+						$end 'Items'
+					$end 'Fields'
+					DesignInstanceID=1
+					$begin 'WindowPosition'
+						$begin 'EditorWindow'
+							Circuit(Schematic(), Layout(View(WindowPos(3, -1, -1, -8, -31, 0, 0, 947, 502), Extent(-0.146429032087326, -0.12224892526865, 0.149511456489563, 0.122938208281994, 2573.45202461225, 2573.5444754886, -0.11833667755127, 0.122938208281994, 0.239755779504776, 0.245187133550644, 1), ViewingXfm(-1, 1, -1.0226536989212, 1.0226536989212, 82.4182205200195, 124.127326965332, 8.34182167053223, 0, 0, 0, 0, 8.34182167053223, 0, 0, 0, 0, 8.34182167053223, 0, -0.0128565151244402, -0.0028749278280884, -103.272773742676, 1))))
+						$end 'EditorWindow'
+					$end 'WindowPosition'
+					$begin 'ReportSetup'
+						$begin 'ReportManager'
+							$begin 'Reports'
+							$end 'Reports'
+							NextUniqueID=0
+							MoveBackwards=false
+							$begin 'NextVersID'
+								NextUniqueID=0
+								MoveBackwards=false
+							$end 'NextVersID'
+						$end 'ReportManager'
+						$begin 'Reports'
+						$end 'Reports'
+						$begin 'ReportsWindowInfoList'
+						$end 'ReportsWindowInfoList'
+					$end 'ReportSetup'
+				$end 'PostProcessing'
+				$begin 'Properties'
+				$end 'Properties'
+				$begin 'UserDefinedDocument'
+					$begin 'Data'
+					$end 'Data'
+				$end 'UserDefinedDocument'
+				StartTime='0s'
+				StopTime='10s'
+				MaxHarmonics=100
+				WinType=0
+				WidthPercentage=100
+				KaiserParam=0
+				IsTransient=false
+			$end 'PlanarEMItem'
+			$begin 'TopLayout'
+				DefaultUnits='mm'
+				DefaultAngleUnits='deg'
+				MajorSize='10mm'
+				MinorSize='1mm'
+				PixelSnapTolerance=20
+				SnapAcrossHierarchy=false
+				SnapTargetVertex_on=false
+				SnapTargetEdgeCenter_on=false
+				SnapTargetObjCenter_on=false
+				SnapTargetEdge_on=false
+				SnapTargetElecConnection_on=false
+				SnapTargetIntersection_on=false
+				SnapTargetGrid_on=false
+				SnapSourceVertex_on=true
+				SnapSourceEdgeCenter_on=true
+				SnapSourceObjCenter_on=true
+				SnapSourceEdge_on=false
+				SnapSourceElecConnection_on=true
+				ConstrainToGrid=false
+				DirectionConstraint=0
+				defaultholesize='25mil'
+				anglesnap='5deg'
+				$begin 'TextStyles'
+					TextStyle(N='<DefaultAnnotation>', F='Arial', Hght=12, Scale=false)
+					TextStyle(N='<DefaultPlotter>', Plot=true, F='RomanSimplex', Hght=5, HghtUnt='mm')
+					TextStyle(N='<DefaultMeasure>', Plot=true, F='RomanSimplex', Hght=1, HghtUnt='mm')
+				$end 'TextStyles'
+				$begin 'TraceStyles'
+					TraceStyle(name='Half Grid', size='0.5mm', bendStyle=0, capStyle=1, capStyle=1)
+					TraceStyle(name='1 Grid', size='1mm', bendStyle=1, capStyle=0, capStyle=0)
+					TraceStyle(name='2 Grids', size='2mm', bendStyle=1, capStyle=1, capStyle=1)
+					TraceStyle(name='5 Grids', size='5mm', bendStyle=0, capStyle=2, capStyle=2)
+				$end 'TraceStyles'
+				'current via style'='PlanarEMVia'
+				'current pin style'=''
+				MajorColor=16772075
+				MinorColor=16774645
+				ShowGrid=true
+				PageExtent(-0.06567, -0.06567, 0.06567, 0.06567)
+				'background color'=16777215
+				DefaultToSketchMode=false
+				fillMode=false
+				DocVisibilityFlag=962
+				FastViewTransforms=true
+				'show connection points'=false
+				'draw rats'=true
+				'display vertex labels'=false
+				ColorByNet=false
+				'rectangle description'=0
+				snaptoport=true
+				autoplacecomp=false
+				'sym footprint scaling'=2.3875
+				AutoScale=true
+				'measure display digits'=3
+				'display measure units'=false
+				SuppressPads=true
+				AntiPadsAlwaysOn=false
+				'primary selection color'=255
+				'secondary selection color'=3289780
+				'preview selection'=false
+				AllowDragOnFirstClick=false
+				PinConnectivityPopup=false
+				OptionUseNamingConvention_PadPort=false
+				OptionNamingConvention_PadPort='$REFDES_$PINNAME_$NETNAME'
+				OptionUseNamingConvention_EdgePort=false
+				OptionNamingConvention_EdgePort='$NETNAME'
+				OptionUseNamingConvention_PointPort=false
+				OptionNamingConvention_PointPort='$POSTERM_LAYER_$NEGTERM_LAYER'
+				OptionUseNamingConvention_PinGroup=false
+				OptionNamingConvention_PinGroup='$REFDES_GROUP_$NETNAME'
+				useFixedDrawingResolution=false
+				DrawingResolution='0.002mm'
+				$begin 'ViewConfigs'
+					ViewConfigsCurrent=''
+				$end 'ViewConfigs'
+				currentTextStyle=0
+				currentTraceStyle=0
+				prevBounds(-0.146429032087326, -0.12224892526865, 0.149511456489563, 0.122938208281994)
+				prevMapFactor(2573.45202461225, 2573.5444754886)
+				prevOrigin(-0.11833667755127, 0.122938208281994)
+				prevViewExtent(0.239755779504776, 0.245187133550644)
+				prevZoomScale=1
+				$begin 'Animation'
+					LabelColor(R=230, G=230, B=230)
+					FontName='Arial'
+					FontHeight=24
+					FontWeight=400
+				$end 'Animation'
+			$end 'TopLayout'
+		$end 'Instance'
+		$begin 'SODInfo'
+			$begin 'EMDesign1'
+				$begin 'CosimDefinition'
+					CosimDefName='DefaultNetlist'
+					DefinitionCompName=''
+					$begin 'SODInstanceMap'
+					$end 'SODInstanceMap'
+					SODComponentList()
+				$end 'CosimDefinition'
+			$end 'EMDesign1'
+		$end 'SODInfo'
+	$end 'DataInstances'
+	$begin 'WBSystemIDToDesignInstanceIDMap'
+	$end 'WBSystemIDToDesignInstanceIDMap'
+	$begin 'WBSysIDSysDetails'
+	$end 'WBSysIDSysDetails'
+	$begin 'WBConnIDConnDetails'
+	$end 'WBConnIDConnDetails'
+	$begin 'WBMaterialGuidDetails'
+		WBMaterialGuidMap()
+	$end 'WBMaterialGuidDetails'
+$end 'AnsoftProject'
+$begin 'AllReferencedFilesForProject'
+$end 'AllReferencedFilesForProject'
+$begin 'ProjectPreview'
+	IsEncrypted=false
+	Thumbnail64=''
+	$begin 'DesignInfo'
+		DesignName='EMDesign1'
+		Notes=''
+		Factory='HFSS 3D Layout Design'
+		IsSolved=false
+		'Nominal Setups'[0:]
+		'Nominal Setup Types'[0:]
+		'Optimetrics Setups'[0:]
+		'Optimetrics Experiment Types'[0:]
+		Image64=''
+	$end 'DesignInfo'
+$end 'ProjectPreview'

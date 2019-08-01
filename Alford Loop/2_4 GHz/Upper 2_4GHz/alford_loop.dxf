@@ -1,0 +1,1828 @@
+  0
+SECTION
+  2
+ENTITIES
+  0
+POLYLINE
+  8
+alford_loop
+  5
+1
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+2
+ 10
+29.0
+ 20
+-10.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+3
+ 10
+29.0
+ 20
+10.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+4
+ 10
+30.0
+ 20
+10.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+5
+ 10
+30.0
+ 20
+-10.0
+  0
+SEQEND
+  8
+alford_loop
+  5
+6
+  0
+POLYLINE
+  8
+alford_loop
+  5
+7
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+8
+ 10
+0.5
+ 20
+0.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+9
+ 10
+0.482963
+ 20
+-0.12941
+  0
+VERTEX
+  8
+alford_loop
+  5
+A
+ 10
+0.433013
+ 20
+-0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+B
+ 10
+0.353553
+ 20
+-0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+C
+ 10
+0.25
+ 20
+-0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+D
+ 10
+0.12941
+ 20
+-0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+E
+ 10
+-9.18485e-017
+ 20
+-0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+F
+ 10
+-0.12941
+ 20
+-0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+10
+ 10
+-0.25
+ 20
+-0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+11
+ 10
+-0.353553
+ 20
+-0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+12
+ 10
+-0.433013
+ 20
+-0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+13
+ 10
+-0.482963
+ 20
+-0.12941
+  0
+VERTEX
+  8
+alford_loop
+  5
+14
+ 10
+-0.5
+ 20
+-1.60812e-016
+  0
+VERTEX
+  8
+alford_loop
+  5
+15
+ 10
+-0.482963
+ 20
+0.12941
+  0
+VERTEX
+  8
+alford_loop
+  5
+16
+ 10
+-0.433013
+ 20
+0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+17
+ 10
+-0.353553
+ 20
+0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+18
+ 10
+-0.25
+ 20
+0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+19
+ 10
+-0.12941
+ 20
+0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+1A
+ 10
+1.41638e-016
+ 20
+0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+1B
+ 10
+0.12941
+ 20
+0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+1C
+ 10
+0.25
+ 20
+0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+1D
+ 10
+0.353553
+ 20
+0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+1E
+ 10
+0.433013
+ 20
+0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+1F
+ 10
+0.482963
+ 20
+0.12941
+  0
+SEQEND
+  8
+alford_loop
+  5
+20
+  0
+POLYLINE
+  8
+alford_loop
+  5
+21
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+22
+ 10
+0.5
+ 20
+0.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+23
+ 10
+0.482963
+ 20
+-0.12941
+  0
+VERTEX
+  8
+alford_loop
+  5
+24
+ 10
+0.433013
+ 20
+-0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+25
+ 10
+0.353553
+ 20
+-0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+26
+ 10
+0.25
+ 20
+-0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+27
+ 10
+0.12941
+ 20
+-0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+28
+ 10
+-9.18485e-017
+ 20
+-0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+29
+ 10
+-0.12941
+ 20
+-0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+2A
+ 10
+-0.25
+ 20
+-0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+2B
+ 10
+-0.353553
+ 20
+-0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+2C
+ 10
+-0.433013
+ 20
+-0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+2D
+ 10
+-0.482963
+ 20
+-0.12941
+  0
+VERTEX
+  8
+alford_loop
+  5
+2E
+ 10
+-0.5
+ 20
+-1.60812e-016
+  0
+VERTEX
+  8
+alford_loop
+  5
+2F
+ 10
+-0.482963
+ 20
+0.12941
+  0
+VERTEX
+  8
+alford_loop
+  5
+30
+ 10
+-0.433013
+ 20
+0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+31
+ 10
+-0.353553
+ 20
+0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+32
+ 10
+-0.25
+ 20
+0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+33
+ 10
+-0.12941
+ 20
+0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+34
+ 10
+1.41638e-016
+ 20
+0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+35
+ 10
+0.12941
+ 20
+0.482963
+  0
+VERTEX
+  8
+alford_loop
+  5
+36
+ 10
+0.25
+ 20
+0.433013
+  0
+VERTEX
+  8
+alford_loop
+  5
+37
+ 10
+0.353553
+ 20
+0.353553
+  0
+VERTEX
+  8
+alford_loop
+  5
+38
+ 10
+0.433013
+ 20
+0.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+39
+ 10
+0.482963
+ 20
+0.12941
+  0
+SEQEND
+  8
+alford_loop
+  5
+3A
+  0
+POLYLINE
+  8
+alford_loop
+  5
+3B
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+3C
+ 10
+1.5
+ 20
+0.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+3D
+ 10
+1.44889
+ 20
+-0.388229
+  0
+VERTEX
+  8
+alford_loop
+  5
+3E
+ 10
+1.29904
+ 20
+-0.75
+  0
+VERTEX
+  8
+alford_loop
+  5
+3F
+ 10
+1.06066
+ 20
+-1.06066
+  0
+VERTEX
+  8
+alford_loop
+  5
+40
+ 10
+0.75
+ 20
+-1.29904
+  0
+VERTEX
+  8
+alford_loop
+  5
+41
+ 10
+0.388229
+ 20
+-1.44889
+  0
+VERTEX
+  8
+alford_loop
+  5
+42
+ 10
+-2.75546e-016
+ 20
+-1.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+43
+ 10
+-0.388229
+ 20
+-1.44889
+  0
+VERTEX
+  8
+alford_loop
+  5
+44
+ 10
+-0.75
+ 20
+-1.29904
+  0
+VERTEX
+  8
+alford_loop
+  5
+45
+ 10
+-1.06066
+ 20
+-1.06066
+  0
+VERTEX
+  8
+alford_loop
+  5
+46
+ 10
+-1.29904
+ 20
+-0.75
+  0
+VERTEX
+  8
+alford_loop
+  5
+47
+ 10
+-1.44889
+ 20
+-0.388229
+  0
+VERTEX
+  8
+alford_loop
+  5
+48
+ 10
+-1.5
+ 20
+-4.82437e-016
+  0
+VERTEX
+  8
+alford_loop
+  5
+49
+ 10
+-1.44889
+ 20
+0.388229
+  0
+VERTEX
+  8
+alford_loop
+  5
+4A
+ 10
+-1.29904
+ 20
+0.75
+  0
+VERTEX
+  8
+alford_loop
+  5
+4B
+ 10
+-1.06066
+ 20
+1.06066
+  0
+VERTEX
+  8
+alford_loop
+  5
+4C
+ 10
+-0.75
+ 20
+1.29904
+  0
+VERTEX
+  8
+alford_loop
+  5
+4D
+ 10
+-0.388229
+ 20
+1.44889
+  0
+VERTEX
+  8
+alford_loop
+  5
+4E
+ 10
+4.24915e-016
+ 20
+1.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+4F
+ 10
+0.388229
+ 20
+1.44889
+  0
+VERTEX
+  8
+alford_loop
+  5
+50
+ 10
+0.75
+ 20
+1.29904
+  0
+VERTEX
+  8
+alford_loop
+  5
+51
+ 10
+1.06066
+ 20
+1.06066
+  0
+VERTEX
+  8
+alford_loop
+  5
+52
+ 10
+1.29904
+ 20
+0.75
+  0
+VERTEX
+  8
+alford_loop
+  5
+53
+ 10
+1.44889
+ 20
+0.388229
+  0
+SEQEND
+  8
+alford_loop
+  5
+54
+  0
+POLYLINE
+  8
+alford_loop
+  5
+55
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+56
+ 10
+10.0
+ 20
+29.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+57
+ 10
+-10.0
+ 20
+29.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+58
+ 10
+-10.0
+ 20
+30.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+59
+ 10
+10.0
+ 20
+30.0
+  0
+SEQEND
+  8
+alford_loop
+  5
+5A
+  0
+POLYLINE
+  8
+alford_loop
+  5
+5B
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+5C
+ 10
+-10.0
+ 20
+-29.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+5D
+ 10
+10.0
+ 20
+-29.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+5E
+ 10
+10.0
+ 20
+-30.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+5F
+ 10
+-10.0
+ 20
+-30.0
+  0
+SEQEND
+  8
+alford_loop
+  5
+60
+  0
+POLYLINE
+  8
+alford_loop
+  5
+61
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+62
+ 10
+-1.41421
+ 20
+-0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+63
+ 10
+-3.35
+ 20
+-0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+64
+ 10
+-3.35
+ 20
+-2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+65
+ 10
+-25.0
+ 20
+-2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+66
+ 10
+-25.0
+ 20
+-19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+67
+ 10
+-26.0
+ 20
+-19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+68
+ 10
+-26.0
+ 20
+-5.55
+  0
+VERTEX
+  8
+alford_loop
+  5
+69
+ 10
+-27.0
+ 20
+-5.55
+  0
+VERTEX
+  8
+alford_loop
+  5
+6A
+ 10
+-27.0
+ 20
+-19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+6B
+ 10
+-28.0
+ 20
+-19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+6C
+ 10
+-28.0
+ 20
+2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+6D
+ 10
+-3.35
+ 20
+2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+6E
+ 10
+-3.35
+ 20
+0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+6F
+ 10
+-1.41421
+ 20
+0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+70
+ 10
+-1.20593
+ 20
+0.892032
+  0
+VERTEX
+  8
+alford_loop
+  5
+71
+ 10
+-0.892032
+ 20
+1.20593
+  0
+VERTEX
+  8
+alford_loop
+  5
+72
+ 10
+-0.5
+ 20
+1.41421
+  0
+VERTEX
+  8
+alford_loop
+  5
+73
+ 10
+-0.5
+ 20
+3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+74
+ 10
+-2.25
+ 20
+3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+75
+ 10
+-2.25
+ 20
+25.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+76
+ 10
+-19.05
+ 20
+25.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+77
+ 10
+-19.05
+ 20
+26.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+78
+ 10
+-5.55
+ 20
+26.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+79
+ 10
+-5.55
+ 20
+27.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+7A
+ 10
+-19.05
+ 20
+27.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+7B
+ 10
+-19.05
+ 20
+28.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+7C
+ 10
+2.25
+ 20
+28.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+7D
+ 10
+2.25
+ 20
+3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+7E
+ 10
+0.5
+ 20
+3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+7F
+ 10
+0.5
+ 20
+1.41421
+  0
+VERTEX
+  8
+alford_loop
+  5
+80
+ 10
+0.892032
+ 20
+1.20593
+  0
+VERTEX
+  8
+alford_loop
+  5
+81
+ 10
+1.20593
+ 20
+0.892032
+  0
+VERTEX
+  8
+alford_loop
+  5
+82
+ 10
+1.41421
+ 20
+0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+83
+ 10
+3.35
+ 20
+0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+84
+ 10
+3.35
+ 20
+2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+85
+ 10
+25.0
+ 20
+2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+86
+ 10
+25.0
+ 20
+19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+87
+ 10
+26.0
+ 20
+19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+88
+ 10
+26.0
+ 20
+5.55
+  0
+VERTEX
+  8
+alford_loop
+  5
+89
+ 10
+27.0
+ 20
+5.55
+  0
+VERTEX
+  8
+alford_loop
+  5
+8A
+ 10
+27.0
+ 20
+19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+8B
+ 10
+28.0
+ 20
+19.05
+  0
+VERTEX
+  8
+alford_loop
+  5
+8C
+ 10
+28.0
+ 20
+-2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+8D
+ 10
+3.35
+ 20
+-2.25
+  0
+VERTEX
+  8
+alford_loop
+  5
+8E
+ 10
+3.35
+ 20
+-0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+8F
+ 10
+1.41421
+ 20
+-0.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+90
+ 10
+1.20593
+ 20
+-0.892032
+  0
+VERTEX
+  8
+alford_loop
+  5
+91
+ 10
+0.892032
+ 20
+-1.20593
+  0
+VERTEX
+  8
+alford_loop
+  5
+92
+ 10
+0.5
+ 20
+-1.41421
+  0
+VERTEX
+  8
+alford_loop
+  5
+93
+ 10
+0.5
+ 20
+-3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+94
+ 10
+2.25
+ 20
+-3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+95
+ 10
+2.25
+ 20
+-25.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+96
+ 10
+19.05
+ 20
+-25.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+97
+ 10
+19.05
+ 20
+-26.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+98
+ 10
+5.55
+ 20
+-26.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+99
+ 10
+5.55
+ 20
+-27.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+9A
+ 10
+19.05
+ 20
+-27.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+9B
+ 10
+19.05
+ 20
+-28.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+9C
+ 10
+-2.25
+ 20
+-28.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+9D
+ 10
+-2.25
+ 20
+-3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+9E
+ 10
+-0.5
+ 20
+-3.35
+  0
+VERTEX
+  8
+alford_loop
+  5
+9F
+ 10
+-0.5
+ 20
+-1.41421
+  0
+VERTEX
+  8
+alford_loop
+  5
+A0
+ 10
+-0.892032
+ 20
+-1.20593
+  0
+VERTEX
+  8
+alford_loop
+  5
+A1
+ 10
+-1.20593
+ 20
+-0.892032
+  0
+SEQEND
+  8
+alford_loop
+  5
+A2
+  0
+POLYLINE
+  8
+alford_loop
+  5
+A3
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+A4
+ 10
+-29.0
+ 20
+10.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+A5
+ 10
+-29.0
+ 20
+-10.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+A6
+ 10
+-30.0
+ 20
+-10.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+A7
+ 10
+-30.0
+ 20
+10.0
+  0
+SEQEND
+  8
+alford_loop
+  5
+A8
+  0
+POLYLINE
+  8
+alford_loop
+  5
+A9
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+AA
+ 10
+-50.0
+ 20
+50.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+AB
+ 10
+50.0
+ 20
+50.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+AC
+ 10
+50.0
+ 20
+-50.0
+  0
+VERTEX
+  8
+alford_loop
+  5
+AD
+ 10
+-50.0
+ 20
+-50.0
+  0
+SEQEND
+  8
+alford_loop
+  5
+AE
+  0
+POLYLINE
+  8
+alford_loop
+  5
+AF
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+1
+  0
+VERTEX
+  8
+alford_loop
+  5
+B0
+ 10
+-201.5
+ 20
+-201.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+B1
+ 10
+-201.5
+ 20
+198.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+B2
+ 10
+198.5
+ 20
+198.5
+  0
+VERTEX
+  8
+alford_loop
+  5
+B3
+ 10
+198.5
+ 20
+-201.5
+  0
+SEQEND
+  8
+alford_loop
+  5
+B4
+  0
+ENDSEC
+  0
+EOF

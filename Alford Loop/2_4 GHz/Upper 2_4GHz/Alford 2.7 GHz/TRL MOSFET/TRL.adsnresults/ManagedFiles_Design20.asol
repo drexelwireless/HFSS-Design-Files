@@ -1,0 +1,4 @@
+IsBigEndian false
+$begin 'ManagedFiles'
+	svcache[2: 'HDR6043602413686241017.tmp', 'HDR6043602413686241018.tmp']
+$end 'ManagedFiles'

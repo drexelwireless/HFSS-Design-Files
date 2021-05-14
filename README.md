@@ -7,3 +7,4 @@ This directory contains RF design files for the following projects:
 * Bellyband
 * Alford loop
 * Leaky wave
+* 3.5 GHz RALA

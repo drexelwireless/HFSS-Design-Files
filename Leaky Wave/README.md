@@ -6,23 +6,29 @@ Ideally an infinite number of radiation patterns can be excited at each port whi
 The gain achievable through this antenna varies between 0.7 and 6.2 dBi depending on the array configuration.
 
 ```
-@inproceedings{piazza2009two,
-  title={Two port reconfigurable CRLH leaky wave antenna with improved impedance matching and beam tuning},
-  author={Piazza, Daniele and Dandekar, Kapil R and others},
-  booktitle={2009 3rd European Conference on Antennas and Propagation},
-  pages={2046--2049},
-  year={2009},
-  organization={IEEE}
-}
+@INPROCEEDINGS{5068019, 
+author={D. Piazza and D. Michele and K. R. Dandekar}, 
+booktitle={2009 3rd European Conference on Antennas and Propagation}, 
+title={Two port reconfigurable CRLH leaky wave antenna with improved impedance matching and beam tuning}, 
+year={2009}, 
+volume={}, 
+number={}, 
+pages={2046-2049}, 
+doi={}, 
+ISSN={2164-3342}, 
+month={March},}
 ```
 
 ```
-@inproceedings{patron2013improved,
-  title={Improved design of a CRLH leaky-wave antenna and its application for DoA estimation},
-  author={Patron, Damiano and Paaso, Henna and M{\"a}mmel{\"a}, Aarne and Piazza, Daniele and Dandekar, Kapil R},
-  booktitle={2013 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)},
-  pages={1343--1346},
-  year={2013},
-  organization={IEEE}
-}
+@INPROCEEDINGS{6624937, 
+author={D. Patron and H. Paaso and A. Mammela and D. Piazza and K. R. Dandekar}, 
+booktitle={2013 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)}, 
+title={Improved design of a CRLH leaky-wave antenna and its application for DoA estimation}, 
+year={2013}, 
+volume={}, 
+number={}, 
+pages={1343-1346}, 
+doi={10.1109/APWC.2013.6624937}, 
+ISSN={}, 
+month={Sept},}
 ```

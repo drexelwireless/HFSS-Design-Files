@@ -15,3 +15,14 @@ The gain achievable through this antenna varies between 0.7 and 6.2 dBi dependin
   organization={IEEE}
 }
 ```
+
+```
+@inproceedings{patron2013improved,
+  title={Improved design of a CRLH leaky-wave antenna and its application for DoA estimation},
+  author={Patron, Damiano and Paaso, Henna and Mammela, Aarne and Piazza, Daniele and Dandekar, Kapil R},
+  booktitle={2013 IEEE-APS Topical Conference on Antennas and Propagation in Wireless Communications (APWC)},
+  pages={1343--1346},
+  year={2013},
+  organization={IEEE}
+}
+```

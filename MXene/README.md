@@ -6,14 +6,16 @@ Moreover, it is demonstrated that an MXene patch antenna array with integrated f
 The versatility of MXene antennas in wide frequency ranges coupled with the flexibility, scalability, and ease of solution processing makes MXene promising for integrated RF components in various flexible electronic devices.
 
 ```
-@article{han2021solution,
-  title={Solution-Processed Ti3C2Tx MXene Antennas for Radio-Frequency Communication},
-  author={Han, Meikang and Liu, Yuqiao and Rakhmanov, Roman and Israel, Christopher and Tajin, Md Abu Saleh and Friedman, Gary and Volman, Vladimir and Hoorfar, Ahmad and Dandekar, Kapil R and Gogotsi, Yury},
-  journal={Advanced Materials},
-  volume={33},
-  number={1},
-  pages={2003225},
-  year={2021},
-  publisher={Wiley Online Library}
+@article{https://doi.org/10.1002/adma.202003225,
+author = {Han, Meikang and Liu, Yuqiao and Rakhmanov, Roman and Israel, Christopher and Tajin, Md Abu Saleh and Friedman, Gary and Volman, Vladimir and Hoorfar, Ahmad and Dandekar, Kapil R. and Gogotsi, Yury},
+title = {Solution-Processed {Ti3C2Tx} {MXene} Antennas for Radio-Frequency Communication},
+journal = {Advanced Materials},
+volume = {n/a},
+number = {n/a},
+pages = {2003225},
+doi = {https://doi.org/10.1002/adma.202003225},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003225},
+year = {2020},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202003225}
 }
 ```

@@ -20,3 +20,14 @@ the central hole. The large circle on the top layer would be connected to the SM
 
 # CST Mirowave Studio or other RF simulator user can import the gerber files from the 3.5GHz RALA 
 Fabrication folder.
+
+```
+@article{tajin2021, 
+title={On the Design of Pattern Reconfigurable Alford Loop Antennas}, 
+journal={International Conference on Electromagnetics in Advanced Applications (ICEAA)}, 
+author={Tajin, Md Abu Saleh and Dandekar, Kapil R.},
+year={2021}, 
+month={Aug},
+note={"to appear"}
+}
+```

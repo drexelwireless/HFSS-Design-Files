@@ -7,16 +7,17 @@ Finally, the wearable sensor has been applied for infant breathing monitoring us
 A machine learning technique has been developed and applied to post-process the RSSI data, and the results show that breathing and non-breathing patterns can be successfully classified.
 
 ```
-@article{patron2016use,
-  title={On the use of knitted antennas and inductively coupled RFID tags for wearable applications},
-  author={Patron, Damiano and Mongan, William and Kurzweg, Timothy P and Fontecchio, Adam and Dion, Genevieve and Anday, Endla K and Dandekar, Kapil R},
-  journal={IEEE transactions on biomedical circuits and systems},
-  volume={10},
-  number={6},
-  pages={1047--1057},
-  year={2016},
-  publisher={IEEE}
-}
+@ARTICLE{7458913, 
+author={D. Patron and W. Mongan and T. P. Kurzweg and A. Fontecchio and G. Dion and E. K. Anday and K. R. Dandekar}, 
+journal={IEEE Transactions on Biomedical Circuits and Systems}, 
+title={On the Use of Knitted Antennas and Inductively Coupled RFID Tags for Wearable Applications}, 
+year={2016}, 
+volume={10}, 
+number={6}, 
+pages={1047-1057},
+doi={10.1109/TBCAS.2016.2518871}, 
+ISSN={1932-4545}, 
+month={Dec},}
 ```
 
 Flexible antennas have the potential to transform wearable and fabric-based wireless sensing technologies. 
@@ -30,15 +31,15 @@ Moreover, this work demonstrates how the approach can be used to quantify bellyb
 Finally, the efficiency results were used to predict the read-range of Bellyband RFID technology.
 
 ```
-@article{tajin2019efficiency,
-  title={Efficiency measurement of the flexible on-body antenna at varying levels of stretch in a reverberation chamber},
-  author={Tajin, Md Abu Saleh and Bshara, Oday and Liu, Yuqiao and Levitt, Ariana and Dion, Genevieve and Dandekar, Kapil R},
-  journal={IET Microwaves, Antennas \& Propagation},
-  volume={14},
-  number={3},
-  pages={154--158},
-  year={2019},
-  publisher={IET}
+@ARTICLE{9003689, 
+author={M. A. S. Tajin and O. Bshara and Y. Liu and A. Levitt and G. Dion and K. R. Dandekar}, 
+journal={IET Microwaves, Antennas Propagation}, 
+title={Efficiency measurement of the flexible on-body antenna at varying levels of stretch in a reverberation chamber}, 
+year={2020}, 
+volume={14}, 
+number={3}, 
+pages={154-158},
+doi={10.1049/iet-map.2019.0503}
 }
 ```
 
@@ -52,14 +53,14 @@ This work analyzes the effect of sweat and moisture on silver-coated nylon yarn 
 HFSS simulation shows the level of perturbation in antenna performance as sheet resistance increased with each cycle of sweat-immersion, washing, and drying.
 
 ```
-@article{tajin2020effect,
-  title={On the Effect of Sweat on Sheet Resistance of Knitted Conductive Yarns in Wearable Antenna Design},
-  author={Tajin, Md Abu Saleh and Levitt, Ariana S and Liu, Yuqiao and Amanatides, Chelsea E and Schauer, Caroline L and Dion, Genevieve and Dandekar, Kapil R},
-  journal={IEEE Antennas and Wireless Propagation Letters},
-  volume={19},
-  number={4},
-  pages={542--546},
-  year={2020},
-  publisher={IEEE}
+@ARTICLE{8978914, 
+author={M. A. S. Tajin and A. S. Levitt and Y. Liu and C. E. Amanatides and C. L. Schauer and G. Dion and K. R. Dandekar}, 
+journal={IEEE Antennas and Wireless Propagation Letters}, 
+title={On the Effect of Sweat on Sheet Resistance of Knitted Conductive Yarns in Wearable Antenna Design}, 
+year={2020}, 
+volume={19}, 
+number={4}, 
+pages={542-546},
+doi={10.1109/LAWP.2020.2971189}
 }
 ```

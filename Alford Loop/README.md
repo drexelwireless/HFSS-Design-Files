@@ -6,14 +6,17 @@ The RF performance has been experimentally evaluated under different levels of c
 The radiation of omnidirectional and directional beams along with an integrated control board, allows for convenient utilization of the antenna in numerous SDR MIMO platforms.
 
 ```
-@inproceedings{patron2014planar,
-  title={Planar reconfigurable antenna with integrated switching control circuitry},
-  author={Patron, Damiano and Dandekar, Kapil R},
-  booktitle={The 8th European Conference on Antennas and Propagation (EuCAP 2014)},
-  pages={2737--2740},
-  year={2014},
-  organization={IEEE}
-}
+@INPROCEEDINGS{6902391, 
+author={D. Patron and K. R. Dandekar}, 
+booktitle={The 8th European Conference on Antennas and Propagation (EuCAP 2014)}, 
+title={Planar reconfigurable antenna with integrated switching control circuitry}, 
+year={2014}, 
+volume={}, 
+number={}, 
+pages={2737-2740}, 
+doi={10.1109/EuCAP.2014.6902391}, 
+ISSN={2164-3342}, 
+month={April},}
 ```
 
 Modern 802.11 ac wireless systems are capable of dual-band operations in the 2.4 and 5 GHz bands to enhance bandwidth and data throughput. 
@@ -24,12 +27,15 @@ In the second approach, we designed two independent sets of elements for each ba
 We discuss the designs and the measured results for these two approaches, highlighting the advantages and limitations of the respective radiation characteristics.
 
 ```
-@inproceedings{patron2015use,
-  title={On the use of lumped filters for designing dual-band planar antennas with omnidirectional and directional radiation patterns},
-  author={Patron, Damiano and Piazza, Daniele and Dandekar, Kapil R},
-  booktitle={2015 IEEE 16th Annual Wireless and Microwave Technology Conference (WAMICON)},
-  pages={1--3},
-  year={2015},
-  organization={IEEE}
-}
+@INPROCEEDINGS{7120378, 
+author={D. Patron and D. Piazza and K. R. Dandekar}, 
+booktitle={2015 IEEE 16th Annual Wireless and Microwave Technology Conference (WAMICON)}, 
+title={On the use of lumped filters for designing dual-band planar antennas with omnidirectional and directional radiation patterns}, 
+year={2015}, 
+volume={}, 
+number={}, 
+pages={1-3}, 
+doi={10.1109/WAMICON.2015.7120378}, 
+ISSN={}, 
+month={April},}
 ```

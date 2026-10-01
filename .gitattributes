@@ -1,0 +1,5 @@
+# The Bellyband human-body model (281 MB) was pushed through Git LFS, but
+# without this rule a clone gets the 134-byte pointer instead of the file.
+# Scoped to that one file: a blanket *.aedt rule would make every other
+# project in this repository appear modified.
+Bellyband/Efficiency[[:space:]]on[[:space:]]Human[[:space:]]Body/bellyband_humanbody.aedt filter=lfs diff=lfs merge=lfs -text
